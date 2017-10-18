@@ -90,6 +90,12 @@ body{
   .nav_bar_list{
     display:none;
   }
+  #main{
+    padding: 20px;
+    overflow: hidden;
+    width:90%;
+    text-align: center;
+  }
 }
 
 @media(min-width:700px){
