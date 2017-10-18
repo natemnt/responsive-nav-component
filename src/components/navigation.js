@@ -37,7 +37,6 @@ class Navigation extends Component{
                             </svg>
                         </a>
                     </span>
-
                     <ul className="nav_bar_list">
                         <li><a href="#">Home</a></li>
                         <li><a href="#">About</a></li>
@@ -45,7 +44,7 @@ class Navigation extends Component{
                         <li><a href="#">Contact</a></li>
                         <li><a href="#">Login</a></li>
                     </ul>
-
+                    
                 </nav>
 
                 <div id="nav_bar__side_menu" className="nav_bar__side_nav">
